@@ -2,6 +2,10 @@ class Launch
 {
 void m1()
 {
-   //some code
+   system.out.print ln("hello java lovers ")
+}
+void m2()
+{
+   system.out.print ln("hello java lovers ")
 }
 }
